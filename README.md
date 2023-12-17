@@ -1,2 +1,3 @@
 # ProtoCBM
-[AAAI 2024] On the Concept Trustworthiness in Concept Bottleneck Models
+
+The complete code is coming soon!
